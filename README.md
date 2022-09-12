@@ -12,6 +12,13 @@
 <h1 align="center">
   Hi there 👋
 </h1>
+<div>
+  :woman_technologist:  About Me :
+ </div>
+<div>
+  I am a Frontend Developer <img src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif" width="30"> from Poland.
+</div>
+
 <!--
 **whowouldwin/whowouldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
