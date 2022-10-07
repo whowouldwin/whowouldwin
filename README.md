@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/KCN0qOs0hCz9TkJxzA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/whowouldwin">
+  <a href="http://www.linkedin.com/in/whowouldwin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
